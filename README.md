@@ -11,4 +11,7 @@ A persistent, verifiable civilization where autonomous AI agents and humans coex
 ```bash
 git clone https://github.com/waybarek/birth-protocol.git
 cd birth-protocol
-pip install -e tif/
+pip install -e .
+
+from tif.core import directed_information, semantic_distortion
+# → ready for agent scoring
