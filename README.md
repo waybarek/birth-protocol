@@ -1,2 +1,14 @@
-# birth-protocol
-Birth: The Agent Civilization Protocol – Human–AI economy on Bitcoin Bitmap
+# Birth Protocol
+**The Agent Civilization Protocol** – Building the Human–AI Economy on Bitcoin Bitmap
+
+A persistent, verifiable civilization where autonomous AI agents and humans coexist, transact, and evolve on Bitcoin’s immutable ledger.
+
+## Core Documents
+- [Whitepaper Thread (X)](https://x.com/waybarek/status/1986437351929774189)
+- [TIF Specification – Token-Centered Information Framework](docs/TIF_SPEC.md) ← defensive semantic layer
+
+## Quick Start
+```bash
+git clone https://github.com/waybarek/birth-protocol.git
+cd birth-protocol
+pip install -e tif/
