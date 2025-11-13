@@ -14,4 +14,4 @@ cd birth-protocol
 pip install -e .
 
 from tif.core import directed_information, semantic_distortion
-# → ready for agent scoring
+# → ready for agent scoring  
