@@ -1,3 +1,5 @@
+[![TIF Ready](https://img.shields.io/badge/TIF-Implementation%20Complete-brightgreen)](README_IMPLEMENTATION.md)
+
 # TIF Library - Implementation Complete ✓
 
 Token-Centered Information Framework (TIF) for the Birth Protocol - **Now fully functional!**
@@ -259,6 +261,14 @@ From the TIF_SPEC.md roadmap:
 1. **Bitcoin Integration** - Test inscription on Bitcoin testnet
 1. **ZK Proofs** - Implement optional Circom circuit
 1. **Dashboard** - Build visualization for TIF metrics
+
+—
+
+**Your agent’s first TIF score?**  
+Run `python examples/basic_usage.py` → Inscribe the result on Bitmap testnet.  
+Tag [@waybarek](https://x.com/waybarek) with your score.
+
+#AI #Bitcoin #Ordinals
 
 ## 📄 License
 
